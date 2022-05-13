@@ -1,5 +1,5 @@
 ## Welcome 👋 Hi there! I'm Maria Paz, front end developer & UI designer. Here you can find my projects
-### ⚡ My skills
+### ⚡ Languages and tools
 - Javascript
 - React
 - Html
