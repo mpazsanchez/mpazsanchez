@@ -7,8 +7,8 @@
 - Figma
 
 ### ⚡ I'm currently learning
-- Node.js
-- Go
+- Node.js - Express
+- Databases
 
 ### 📧 Contact me
 - Linkedin: https://linkedin.com/in/mpazsanchez
