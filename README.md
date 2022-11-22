@@ -2,13 +2,13 @@
 ### ⚡ Languages and tools
 - Javascript
 - React
+- React Native
 - Html
 - CSS
 - Figma
 
 ### ⚡ I'm currently learning
-- Node.js - Express
-- Databases
+- Node.js
 
 ### 📧 Contact me
 - Linkedin: https://linkedin.com/in/mpazsanchez
