@@ -11,7 +11,6 @@
 - Node.js
 
 ### 📧 Contact me
-- My web: https://mpazsanchez.vercel.app/
 - Linkedin: https://linkedin.com/in/mpazsanchez
 - Email: maria.16scb@gmail.com
 - Behance: https://www.behance.net/mariapazsanchez1
