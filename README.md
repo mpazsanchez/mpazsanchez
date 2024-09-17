@@ -1,8 +1,10 @@
 ## Welcome 👋 Hi there! I'm Maria Paz, front end developer & UI designer. Here you can find my projects
 ### ⚡ Languages and tools
 - Javascript
+- Typescript
 - React
 - React Native
+- Angular
 - Html
 - CSS
 - Figma
